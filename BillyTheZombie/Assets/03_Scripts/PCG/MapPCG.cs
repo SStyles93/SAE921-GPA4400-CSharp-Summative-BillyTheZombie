@@ -20,6 +20,7 @@ public class MapPCG : MonoBehaviour
     [SerializeField] private RuleTile _wallRuleTile;
 
     [Header("Rooms")]
+    [Tooltip("The Area in which we want to create a map")]
     [SerializeField] private BoundsInt _mainArea;
     [SerializeField] private Queue<BoundsInt> _areaQueue = new Queue<BoundsInt>();
     [Tooltip("The cutting delta set the difference between room after a cut," +
@@ -35,7 +36,6 @@ public class MapPCG : MonoBehaviour
     private HashSet<Vector2Int> _allPositions = new HashSet<Vector2Int>();
     HashSet<Vector2Int> _roomsPositions = new HashSet<Vector2Int>();
 
-
     private enum SplitDirection
     {
         HORIZONTAL,
@@ -45,16 +45,15 @@ public class MapPCG : MonoBehaviour
 
     public void Generate()
     {
-        //Reset Tiles
-        DeleteTiles();
+        //Reset Tiles & Generate the TileMap Area
+        ClearAll();
         GenerateBounds();
 
         //Create Water
         _roomList.Add(_mainArea);
         GetTilePositionsFromRoom();
         FillRoom(_waterTileMap, _waterRuleTile, _allPositions);
-        _roomList.Clear();
-        _allPositions.Clear();
+        ClearLists();
 
         //Create Ground
         _areaQueue.Enqueue(_mainArea);
@@ -65,26 +64,30 @@ public class MapPCG : MonoBehaviour
         FillRoom(_groundTileMap, _groundRuleTile, _roomsPositions);
         FillRoom(_wallTileMap, _wallRuleTile, _roomsPositions);
 
-        //SetStartingPosition();
+        
 
     }
-    public void DeleteTiles()
+    /// <summary>
+    /// Clears all the TileMaps and lists
+    /// </summary>
+    public void ClearAll()
     {
-        _waterTileMap.ClearAllTiles();
-        _groundTileMap.ClearAllTiles();
-        _wallTileMap.ClearAllTiles();
-        _areaList.Clear();
-        _areaQueue.Clear();
-        _roomList.Clear();
-        _allPositions.Clear();
-        _roomsPositions.Clear();
+        ClearMaps();
+        ClearLists();
     }
 
+    /// <summary>
+    /// Gets the spawning point
+    /// </summary>
+    /// <returns>Returns the center of the first room in the RoomList</returns>
     public Vector3 GetSpawningPoint()
     {
         return _roomList[0].center;
     }
 
+    /// <summary>
+    /// Draws the Gizmos used to previsualise elements
+    /// </summary>
     public void OnDrawGizmos()
     {
         Gizmos.color = Color.blue;
@@ -109,12 +112,35 @@ public class MapPCG : MonoBehaviour
     }
 
     /// <summary>
-    /// Sets the TileMap size to the MainArea size
+    /// Clears all the TileMaps
+    /// </summary>
+    private void ClearMaps()
+    {
+        _waterTileMap.ClearAllTiles();
+        _groundTileMap.ClearAllTiles();
+        _wallTileMap.ClearAllTiles();
+    }
+
+    /// <summary>
+    /// Clears all the lists
+    /// </summary>
+    private void ClearLists()
+    {
+        _areaList.Clear();
+        _areaQueue.Clear();
+        _roomList.Clear();
+        _allPositions.Clear();
+        _roomsPositions.Clear();
+    }
+
+    /// <summary>
+    /// Sets the TileMaps size to the MainArea size
     /// </summary>
     private void GenerateBounds()
     {
         _waterTileMap.size = _mainArea.size;
         _groundTileMap.size = _mainArea.size;
+        _wallTileMap.size = _mainArea.size;
     }
 
     /// <summary>
@@ -229,6 +255,9 @@ public class MapPCG : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Sets the final positions of all rooms in one HashSet
+    /// </summary>
     private void SetMap()
     {
         List<Vector2Int> roomCenters = new List<Vector2Int>();
@@ -246,6 +275,11 @@ public class MapPCG : MonoBehaviour
         _roomsPositions.UnionWith(corridorsPositions);
     }
 
+    /// <summary>
+    /// Connects all the rooms together
+    /// </summary>
+    /// <param name="roomCenters">The center of the rooms to connect</param>
+    /// <returns>The position of the connections</returns>
     private HashSet<Vector2Int> ConnectRooms(List<Vector2Int> roomCenters)
     {
         HashSet<Vector2Int> roomConnections = new HashSet<Vector2Int>();
@@ -270,6 +304,12 @@ public class MapPCG : MonoBehaviour
         return roomConnections;
     }
 
+    /// <summary>
+    /// Connects rooms together
+    /// </summary>
+    /// <param name="origin">The origin position</param>
+    /// <param name="destination">The destination position</param>
+    /// <returns>A connection between the origin and destination position</returns>
     private HashSet<Vector2Int> OneRoomConnection(Vector2Int origin, Vector2Int destination)
     {
         HashSet<Vector2Int> roomConnection = new HashSet<Vector2Int>();
