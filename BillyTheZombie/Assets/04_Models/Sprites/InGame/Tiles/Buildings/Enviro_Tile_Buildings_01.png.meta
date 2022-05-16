@@ -1,0 +1,1360 @@
+fileFormatVersion: 2
+guid: 38ff914c60a634e438e3399c828aee9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7074738529898414478
+    second: Enviro_Tile_Buildings_01_0
+  - first:
+      213: 6832293075355327576
+    second: Enviro_Tile_Buildings_01_1
+  - first:
+      213: 8500906587584602514
+    second: Enviro_Tile_Buildings_01_2
+  - first:
+      213: 6693769740418016454
+    second: Enviro_Tile_Buildings_01_3
+  - first:
+      213: -4270830347871206431
+    second: Enviro_Tile_Buildings_01_4
+  - first:
+      213: 5688388654125160834
+    second: Enviro_Tile_Buildings_01_5
+  - first:
+      213: -7380516895087952334
+    second: Enviro_Tile_Buildings_01_6
+  - first:
+      213: -8989120220847292512
+    second: Enviro_Tile_Buildings_01_7
+  - first:
+      213: 348620874725412420
+    second: Enviro_Tile_Buildings_01_8
+  - first:
+      213: -8776638990047434507
+    second: Enviro_Tile_Buildings_01_9
+  - first:
+      213: -2097266671571662802
+    second: Enviro_Tile_Buildings_01_10
+  - first:
+      213: 5237692392987966092
+    second: Enviro_Tile_Buildings_01_11
+  - first:
+      213: -5403689010934418843
+    second: Enviro_Tile_Buildings_01_12
+  - first:
+      213: 593488550783245510
+    second: Enviro_Tile_Buildings_01_13
+  - first:
+      213: -8596417393671588359
+    second: Enviro_Tile_Buildings_01_14
+  - first:
+      213: -7854782992108154680
+    second: Enviro_Tile_Buildings_01_15
+  - first:
+      213: -7298836137565857414
+    second: Enviro_Tile_Buildings_01_16
+  - first:
+      213: -6945080984153927088
+    second: Enviro_Tile_Buildings_01_17
+  - first:
+      213: -5470179972121558160
+    second: Enviro_Tile_Buildings_01_18
+  - first:
+      213: -1799317607819559724
+    second: Enviro_Tile_Buildings_01_19
+  - first:
+      213: 2245251803009753135
+    second: Enviro_Tile_Buildings_01_20
+  - first:
+      213: 1705948320905013873
+    second: Enviro_Tile_Buildings_01_21
+  - first:
+      213: -8906624723224075671
+    second: Enviro_Tile_Buildings_01_22
+  - first:
+      213: -2740764797395971099
+    second: Enviro_Tile_Buildings_01_23
+  - first:
+      213: -3974184138796386758
+    second: Enviro_Tile_Buildings_01_24
+  - first:
+      213: 7531840723997397967
+    second: Enviro_Tile_Buildings_01_25
+  - first:
+      213: -5012428339625271915
+    second: Enviro_Tile_Buildings_01_26
+  - first:
+      213: -4829783314938135330
+    second: Enviro_Tile_Buildings_01_27
+  - first:
+      213: 1641812698520078503
+    second: Enviro_Tile_Buildings_01_28
+  - first:
+      213: -5057580113446136753
+    second: Enviro_Tile_Buildings_01_29
+  - first:
+      213: -8097257093413186398
+    second: Enviro_Tile_Buildings_01_30
+  - first:
+      213: 3151694829013129418
+    second: Enviro_Tile_Buildings_01_31
+  - first:
+      213: -1904412975470037490
+    second: Enviro_Tile_Buildings_01_32
+  - first:
+      213: 4114505688220276660
+    second: Enviro_Tile_Buildings_01_33
+  - first:
+      213: -3631727195295030784
+    second: Enviro_Tile_Buildings_01_34
+  - first:
+      213: -3897744161264462355
+    second: Enviro_Tile_Buildings_01_35
+  - first:
+      213: 5215755409795388515
+    second: Enviro_Tile_Buildings_01_36
+  - first:
+      213: -3842770248617783854
+    second: Enviro_Tile_Buildings_01_37
+  - first:
+      213: -1068356316401500594
+    second: Enviro_Tile_Buildings_01_38
+  - first:
+      213: -1528443990262211661
+    second: Enviro_Tile_Buildings_01_39
+  - first:
+      213: 8196064450968852912
+    second: Enviro_Tile_Buildings_01_40
+  - first:
+      213: 7538501237812804445
+    second: Enviro_Tile_Buildings_01_41
+  - first:
+      213: 2767919382081568113
+    second: Enviro_Tile_Buildings_01_42
+  - first:
+      213: -3881418747362873350
+    second: Enviro_Tile_Buildings_01_43
+  - first:
+      213: 6774170774550377636
+    second: Enviro_Tile_Buildings_01_44
+  - first:
+      213: 5167847583669148943
+    second: Enviro_Tile_Buildings_01_45
+  - first:
+      213: -1142719067532338660
+    second: Enviro_Tile_Buildings_01_46
+  - first:
+      213: -5994296319935569403
+    second: Enviro_Tile_Buildings_01_47
+  - first:
+      213: -4288396912727526725
+    second: Enviro_Tile_Buildings_01_48
+  - first:
+      213: -812746202407399758
+    second: Enviro_Tile_Buildings_01_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814d5995358e2260800000000000000
+      internalID: 7074738529898414478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c5aed5a5e21de50800000000000000
+      internalID: 6832293075355327576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29122cd608949f570800000000000000
+      internalID: 8500906587584602514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4efd12d1c05ec50800000000000000
+      internalID: 6693769740418016454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3cd2b2d66fab4c0800000000000000
+      internalID: -4270830347871206431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891e71b75731fe40800000000000000
+      internalID: 5688388654125160834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e7381dcf2239990800000000000000
+      internalID: -7380516895087952334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afbd1919ca304380800000000000000
+      internalID: -8989120220847292512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4b47a6dc86d400800000000000000
+      internalID: 348620874725412420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82164d65d133680800000000000000
+      internalID: -8776638990047434507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2884b1f21305e2e0800000000000000
+      internalID: -2097266671571662802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a30de1b7500b840800000000000000
+      internalID: 5237692392987966092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562729a797d3205b0800000000000000
+      internalID: -5403689010934418843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc52b741be7c3800800000000000000
+      internalID: 593488550783245510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5373d1de363b880800000000000000
+      internalID: -8596417393671588359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01d9f2c743ef290800000000000000
+      internalID: -7854782992108154680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795a9a243355ba90800000000000000
+      internalID: -7298836137565857414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525f2b34ad1e9f90800000000000000
+      internalID: -6945080984153927088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730d303c440614b0800000000000000
+      internalID: -5470179972121558160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc3fcb3b2a8707e0800000000000000
+      internalID: -1799317607819559724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a3b57e9cb82f10800000000000000
+      internalID: 2245251803009753135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa7b895febca710800000000000000
+      internalID: 1705948320905013873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626488e000556480800000000000000
+      internalID: -8906624723224075671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3515e10f8d6f9d0800000000000000
+      internalID: -2740764797395971099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36bc07f49cd8d8c0800000000000000
+      internalID: -3974184138796386758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39faaab39768860800000000000000
+      internalID: 7531840723997397967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dd88a6bf6407ab0800000000000000
+      internalID: -5012428339625271915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf0031aa929fcb0800000000000000
+      internalID: -4829783314938135330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c30b53f3e8c610800000000000000
+      internalID: 1641812698520078503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4496fadeaddfc9b0800000000000000
+      internalID: -5057580113446136753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4581c1393c0af80800000000000000
+      internalID: -8097257093413186398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac853c3afb11dbb20800000000000000
+      internalID: 3151694829013129418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b6732d7a2295e0800000000000000
+      internalID: -1904412975470037490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b791b4bf19a91930800000000000000
+      internalID: 4114505688220276660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002605b8b53899dc0800000000000000
+      internalID: -3631727195295030784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59a72265e68e9c0800000000000000
+      internalID: -3897744161264462355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3641d2439e5126840800000000000000
+      internalID: 5215755409795388515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd82b991dcbbaac0800000000000000
+      internalID: -3842770248617783854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef753379f6c21f0800000000000000
+      internalID: -1068356316401500594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1755f940e9cae0800000000000000
+      internalID: -1528443990262211661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9943c81354eb170800000000000000
+      internalID: 8196064450968852912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bbca26fe22e9860800000000000000
+      internalID: 7538501237812804445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df3ef4300a96620800000000000000
+      internalID: 2767919382081568113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe4e2c63e622ac0800000000000000
+      internalID: -3881418747362873350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a478e8ad60b20e50800000000000000
+      internalID: 6774170774550377636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd5f53ff1e7b740800000000000000
+      internalID: 5167847583669148943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5badff0f3420f0800000000000000
+      internalID: -1142719067532338660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5022fc3914bffcca0800000000000000
+      internalID: -5994296319935569403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27ef09abd8c74c0800000000000000
+      internalID: -4288396912727526725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_Tile_Buildings_01_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be85f092ab88b4f0800000000000000
+      internalID: -812746202407399758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enviro_Tile_Buildings_01_38: -1068356316401500594
+      Enviro_Tile_Buildings_01_12: -5403689010934418843
+      Enviro_Tile_Buildings_01_27: -4829783314938135330
+      Enviro_Tile_Buildings_01_26: -5012428339625271915
+      Enviro_Tile_Buildings_01_46: -1142719067532338660
+      Enviro_Tile_Buildings_01_19: -1799317607819559724
+      Enviro_Tile_Buildings_01_6: -7380516895087952334
+      Enviro_Tile_Buildings_01_10: -2097266671571662802
+      Enviro_Tile_Buildings_01_42: 2767919382081568113
+      Enviro_Tile_Buildings_01_25: 7531840723997397967
+      Enviro_Tile_Buildings_01_44: 6774170774550377636
+      Enviro_Tile_Buildings_01_0: 7074738529898414478
+      Enviro_Tile_Buildings_01_36: 5215755409795388515
+      Enviro_Tile_Buildings_01_29: -5057580113446136753
+      Enviro_Tile_Buildings_01_15: -7854782992108154680
+      Enviro_Tile_Buildings_01_22: -8906624723224075671
+      Enviro_Tile_Buildings_01_39: -1528443990262211661
+      Enviro_Tile_Buildings_01_14: -8596417393671588359
+      Enviro_Tile_Buildings_01_30: -8097257093413186398
+      Enviro_Tile_Buildings_01_48: -4288396912727526725
+      Enviro_Tile_Buildings_01_45: 5167847583669148943
+      Enviro_Tile_Buildings_01_5: 5688388654125160834
+      Enviro_Tile_Buildings_01_2: 8500906587584602514
+      Enviro_Tile_Buildings_01_31: 3151694829013129418
+      Enviro_Tile_Buildings_01_43: -3881418747362873350
+      Enviro_Tile_Buildings_01_49: -812746202407399758
+      Enviro_Tile_Buildings_01_9: -8776638990047434507
+      Enviro_Tile_Buildings_01_16: -7298836137565857414
+      Enviro_Tile_Buildings_01_4: -4270830347871206431
+      Enviro_Tile_Buildings_01_33: 4114505688220276660
+      Enviro_Tile_Buildings_01_18: -5470179972121558160
+      Enviro_Tile_Buildings_01_21: 1705948320905013873
+      Enviro_Tile_Buildings_01_11: 5237692392987966092
+      Enviro_Tile_Buildings_01_23: -2740764797395971099
+      Enviro_Tile_Buildings_01_34: -3631727195295030784
+      Enviro_Tile_Buildings_01_28: 1641812698520078503
+      Enviro_Tile_Buildings_01_40: 8196064450968852912
+      Enviro_Tile_Buildings_01_47: -5994296319935569403
+      Enviro_Tile_Buildings_01_24: -3974184138796386758
+      Enviro_Tile_Buildings_01_17: -6945080984153927088
+      Enviro_Tile_Buildings_01_3: 6693769740418016454
+      Enviro_Tile_Buildings_01_32: -1904412975470037490
+      Enviro_Tile_Buildings_01_20: 2245251803009753135
+      Enviro_Tile_Buildings_01_8: 348620874725412420
+      Enviro_Tile_Buildings_01_35: -3897744161264462355
+      Enviro_Tile_Buildings_01_37: -3842770248617783854
+      Enviro_Tile_Buildings_01_1: 6832293075355327576
+      Enviro_Tile_Buildings_01_13: 593488550783245510
+      Enviro_Tile_Buildings_01_41: 7538501237812804445
+      Enviro_Tile_Buildings_01_7: -8989120220847292512
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

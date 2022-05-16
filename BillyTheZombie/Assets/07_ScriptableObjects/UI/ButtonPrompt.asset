@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82167e01f4baebd40aef81912502ae51, type: 3}
+  m_Name: ButtonPrompt
+  m_EditorClassIdentifier: 
+  keyboardSprites:
+  - {fileID: 21300000, guid: 270dea77986e6bf49b7fdcdd50760fb1, type: 3}
+  - {fileID: 21300000, guid: aacf1689ebd716e4fa82bbb6eae3518c, type: 3}
+  - {fileID: 21300000, guid: 637226ba266223f41b0053f635ed9d9d, type: 3}
+  gamepadSprites:
+  - {fileID: 21300000, guid: f017152105fbb0b4888a11c7d8a7916a, type: 3}
+  - {fileID: 21300000, guid: 5c93367bff0f574498e76ddb2328d985, type: 3}
+  - {fileID: 21300000, guid: 97fe54d760d5dc94fa4ad9923c0fe209, type: 3}

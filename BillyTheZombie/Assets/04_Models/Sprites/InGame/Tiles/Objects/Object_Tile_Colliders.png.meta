@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: 12a9fe80fb4dbb944a50cec6a9e07fd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1041626174306570731
+    second: Object_Tile_Colliders_0
+  - first:
+      213: 213330433415543079
+    second: Object_Tile_Colliders_1
+  - first:
+      213: -3795468048660092815
+    second: Object_Tile_Colliders_2
+  - first:
+      213: 3649254128363677432
+    second: Object_Tile_Colliders_3
+  - first:
+      213: 2733325506517746712
+    second: Object_Tile_Colliders_4
+  - first:
+      213: 5863655481875530806
+    second: Object_Tile_Colliders_5
+  - first:
+      213: 2225564680323878622
+    second: Object_Tile_Colliders_6
+  - first:
+      213: -6163278022513675743
+    second: Object_Tile_Colliders_7
+  - first:
+      213: 4890244462752904716
+    second: Object_Tile_Colliders_8
+  - first:
+      213: -7679206026116879251
+    second: Object_Tile_Colliders_9
+  - first:
+      213: 2546859298013098543
+    second: Object_Tile_Colliders_10
+  - first:
+      213: 7705533557509360160
+    second: Object_Tile_Colliders_11
+  - first:
+      213: 7723554753882551041
+    second: Object_Tile_Colliders_12
+  - first:
+      213: 3682171370024996099
+    second: Object_Tile_Colliders_13
+  - first:
+      213: -8564711390070871901
+    second: Object_Tile_Colliders_14
+  - first:
+      213: 8305632674772958351
+    second: Object_Tile_Colliders_15
+  - first:
+      213: 7159331663568633236
+    second: Object_Tile_Colliders_16
+  - first:
+      213: 6908810654157822432
+    second: Object_Tile_Colliders_17
+  - first:
+      213: -621284271388234055
+    second: Object_Tile_Colliders_18
+  - first:
+      213: -7415753647022022981
+    second: Object_Tile_Colliders_19
+  - first:
+      213: 130570672575821251
+    second: Object_Tile_Colliders_20
+  - first:
+      213: -3772827456627428824
+    second: Object_Tile_Colliders_21
+  - first:
+      213: -2581772344333504108
+    second: Object_Tile_Colliders_22
+  - first:
+      213: 3492140756407752224
+    second: Object_Tile_Colliders_23
+  - first:
+      213: -7255133229648651039
+    second: Object_Tile_Colliders_24
+  - first:
+      213: 4009929410138916685
+    second: Object_Tile_Colliders_25
+  - first:
+      213: -6561977907368076356
+    second: Object_Tile_Colliders_26
+  - first:
+      213: 2197362713155941825
+    second: Object_Tile_Colliders_27
+  - first:
+      213: 7073758842150809186
+    second: Object_Tile_Colliders_28
+  - first:
+      213: -7434090709359508801
+    second: Object_Tile_Colliders_29
+  - first:
+      213: -7318929797998089681
+    second: Object_Tile_Colliders_30
+  - first:
+      213: -7602914971138272054
+    second: Object_Tile_Colliders_31
+  - first:
+      213: 4566265520174053631
+    second: Object_Tile_Colliders_32
+  - first:
+      213: -8884493464941380923
+    second: Object_Tile_Colliders_33
+  - first:
+      213: 349936788375635051
+    second: Object_Tile_Colliders_34
+  - first:
+      213: -2689762667887611868
+    second: Object_Tile_Colliders_35
+  - first:
+      213: 2743364459724063391
+    second: Object_Tile_Colliders_36
+  - first:
+      213: -6717190327751728670
+    second: Object_Tile_Colliders_37
+  - first:
+      213: 1160097190734717478
+    second: Object_Tile_Colliders_38
+  - first:
+      213: 3070952339203761863
+    second: Object_Tile_Colliders_39
+  - first:
+      213: 4521249327163319989
+    second: Object_Tile_Colliders_40
+  - first:
+      213: 8327800301285131420
+    second: Object_Tile_Colliders_41
+  - first:
+      213: 9129767264428567168
+    second: Object_Tile_Colliders_42
+  - first:
+      213: 8640078148620649161
+    second: Object_Tile_Colliders_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1da4c9c79947e00800000000000000
+      internalID: 1041626174306570731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729738f16e6e5f200800000000000000
+      internalID: 213330433415543079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17825434be9c35bc0800000000000000
+      internalID: -3795468048660092815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6ae309b41c4a230800000000000000
+      internalID: 3649254128363677432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814418ff019bee520800000000000000
+      internalID: 2733325506517746712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63486720893ef5150800000000000000
+      internalID: 5863655481875530806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4c53094bc2ee10800000000000000
+      internalID: 2225564680323878622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122b9100b43a77aa0800000000000000
+      internalID: -6163278022513675743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063533ed63add340800000000000000
+      internalID: 4890244462752904716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca3403ecafd6590800000000000000
+      internalID: -7679206026116879251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b8f6a903485320800000000000000
+      internalID: 2546859298013098543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8234e1fd8fea60800000000000000
+      internalID: 7705533557509360160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f274a0249f2b60800000000000000
+      internalID: 7723554753882551041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d04702a53b91330800000000000000
+      internalID: 3682171370024996099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a865175e58042980800000000000000
+      internalID: -8564711390070871901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c38be99e8834370800000000000000
+      internalID: 8305632674772958351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49df63c573e0b5360800000000000000
+      internalID: 7159331663568633236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d28d7fa601ef50800000000000000
+      internalID: 6908810654157822432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beed533f31c067f0800000000000000
+      internalID: -621284271388234055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed17f2953f51990800000000000000
+      internalID: -7415753647022022981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c537fcb551efc100800000000000000
+      internalID: 130570672575821251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b1e0ea6934abc0800000000000000
+      internalID: -3772827456627428824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f21d4bb3bb2cd0800000000000000
+      internalID: -2581772344333504108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026195b0483967030800000000000000
+      internalID: 3492140756407752224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecd8a854c6905b90800000000000000
+      internalID: -7255133229648651039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47c8b19d8126a730800000000000000
+      internalID: 4009929410138916685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5d5f2cdb2fe4a0800000000000000
+      internalID: -6561977907368076356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53958deb99e7e10800000000000000
+      internalID: 2197362713155941825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e6d25403a0b2260800000000000000
+      internalID: 7073758842150809186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2489823edc4d890800000000000000
+      internalID: -7434090709359508801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6d464020fd6a90800000000000000
+      internalID: -7318929797998089681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ddcf9d150d7690800000000000000
+      internalID: -7602914971138272054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b6182c42ae5f30800000000000000
+      internalID: 4566265520174053631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab3e40440f3b480800000000000000
+      internalID: -8884493464941380923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6488fca7a93bd400800000000000000
+      internalID: 349936788375635051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b372ca1b0caad0800000000000000
+      internalID: -2689762667887611868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c84fe073621620800000000000000
+      internalID: 2743364459724063391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e12ba17cfeb7c2a0800000000000000
+      internalID: -6717190327751728670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ebae9f3e791010800000000000000
+      internalID: 1160097190734717478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62564c1e63e9a20800000000000000
+      internalID: 3070952339203761863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62b86fe44bebe30800000000000000
+      internalID: 4521249327163319989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94cd7e504a429370800000000000000
+      internalID: 8327800301285131420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a214694f273be70800000000000000
+      internalID: 9129767264428567168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Tile_Colliders_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c206209c49b7e770800000000000000
+      internalID: 8640078148620649161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Object_Tile_Colliders_14: -8564711390070871901
+      Object_Tile_Colliders_19: -7415753647022022981
+      Object_Tile_Colliders_32: 4566265520174053631
+      Object_Tile_Colliders_41: 8327800301285131420
+      Object_Tile_Colliders_3: 3649254128363677432
+      Object_Tile_Colliders_9: -7679206026116879251
+      Object_Tile_Colliders_10: 2546859298013098543
+      Object_Tile_Colliders_29: -7434090709359508801
+      Object_Tile_Colliders_1: 213330433415543079
+      Object_Tile_Colliders_25: 4009929410138916685
+      Object_Tile_Colliders_11: 7705533557509360160
+      Object_Tile_Colliders_28: 7073758842150809186
+      Object_Tile_Colliders_38: 1160097190734717478
+      Object_Tile_Colliders_5: 5863655481875530806
+      Object_Tile_Colliders_26: -6561977907368076356
+      Object_Tile_Colliders_37: -6717190327751728670
+      Object_Tile_Colliders_4: 2733325506517746712
+      Object_Tile_Colliders_23: 3492140756407752224
+      Object_Tile_Colliders_40: 4521249327163319989
+      Object_Tile_Colliders_43: 8640078148620649161
+      Object_Tile_Colliders_34: 349936788375635051
+      Object_Tile_Colliders_30: -7318929797998089681
+      Object_Tile_Colliders_16: 7159331663568633236
+      Object_Tile_Colliders_42: 9129767264428567168
+      Object_Tile_Colliders_24: -7255133229648651039
+      Object_Tile_Colliders_0: 1041626174306570731
+      Object_Tile_Colliders_31: -7602914971138272054
+      Object_Tile_Colliders_2: -3795468048660092815
+      Object_Tile_Colliders_20: 130570672575821251
+      Object_Tile_Colliders_27: 2197362713155941825
+      Object_Tile_Colliders_6: 2225564680323878622
+      Object_Tile_Colliders_8: 4890244462752904716
+      Object_Tile_Colliders_15: 8305632674772958351
+      Object_Tile_Colliders_18: -621284271388234055
+      Object_Tile_Colliders_35: -2689762667887611868
+      Object_Tile_Colliders_17: 6908810654157822432
+      Object_Tile_Colliders_21: -3772827456627428824
+      Object_Tile_Colliders_22: -2581772344333504108
+      Object_Tile_Colliders_13: 3682171370024996099
+      Object_Tile_Colliders_33: -8884493464941380923
+      Object_Tile_Colliders_39: 3070952339203761863
+      Object_Tile_Colliders_12: 7723554753882551041
+      Object_Tile_Colliders_7: -6163278022513675743
+      Object_Tile_Colliders_36: 2743364459724063391
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
