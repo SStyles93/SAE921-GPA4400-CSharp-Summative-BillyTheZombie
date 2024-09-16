@@ -135,7 +135,7 @@ TextureImporter:
       213: 8640078148620649161
     second: Object_Tile_Colliders_43
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -152,11 +152,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -175,7 +176,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -195,6 +196,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -206,6 +209,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -218,6 +222,72 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1158,53 +1228,52 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Object_Tile_Colliders_14: -8564711390070871901
-      Object_Tile_Colliders_19: -7415753647022022981
-      Object_Tile_Colliders_32: 4566265520174053631
-      Object_Tile_Colliders_41: 8327800301285131420
-      Object_Tile_Colliders_3: 3649254128363677432
-      Object_Tile_Colliders_9: -7679206026116879251
-      Object_Tile_Colliders_10: 2546859298013098543
-      Object_Tile_Colliders_29: -7434090709359508801
-      Object_Tile_Colliders_1: 213330433415543079
-      Object_Tile_Colliders_25: 4009929410138916685
-      Object_Tile_Colliders_11: 7705533557509360160
-      Object_Tile_Colliders_28: 7073758842150809186
-      Object_Tile_Colliders_38: 1160097190734717478
-      Object_Tile_Colliders_5: 5863655481875530806
-      Object_Tile_Colliders_26: -6561977907368076356
-      Object_Tile_Colliders_37: -6717190327751728670
-      Object_Tile_Colliders_4: 2733325506517746712
-      Object_Tile_Colliders_23: 3492140756407752224
-      Object_Tile_Colliders_40: 4521249327163319989
-      Object_Tile_Colliders_43: 8640078148620649161
-      Object_Tile_Colliders_34: 349936788375635051
-      Object_Tile_Colliders_30: -7318929797998089681
-      Object_Tile_Colliders_16: 7159331663568633236
-      Object_Tile_Colliders_42: 9129767264428567168
-      Object_Tile_Colliders_24: -7255133229648651039
       Object_Tile_Colliders_0: 1041626174306570731
-      Object_Tile_Colliders_31: -7602914971138272054
+      Object_Tile_Colliders_1: 213330433415543079
+      Object_Tile_Colliders_10: 2546859298013098543
+      Object_Tile_Colliders_11: 7705533557509360160
+      Object_Tile_Colliders_12: 7723554753882551041
+      Object_Tile_Colliders_13: 3682171370024996099
+      Object_Tile_Colliders_14: -8564711390070871901
+      Object_Tile_Colliders_15: 8305632674772958351
+      Object_Tile_Colliders_16: 7159331663568633236
+      Object_Tile_Colliders_17: 6908810654157822432
+      Object_Tile_Colliders_18: -621284271388234055
+      Object_Tile_Colliders_19: -7415753647022022981
       Object_Tile_Colliders_2: -3795468048660092815
       Object_Tile_Colliders_20: 130570672575821251
-      Object_Tile_Colliders_27: 2197362713155941825
-      Object_Tile_Colliders_6: 2225564680323878622
-      Object_Tile_Colliders_8: 4890244462752904716
-      Object_Tile_Colliders_15: 8305632674772958351
-      Object_Tile_Colliders_18: -621284271388234055
-      Object_Tile_Colliders_35: -2689762667887611868
-      Object_Tile_Colliders_17: 6908810654157822432
       Object_Tile_Colliders_21: -3772827456627428824
       Object_Tile_Colliders_22: -2581772344333504108
-      Object_Tile_Colliders_13: 3682171370024996099
+      Object_Tile_Colliders_23: 3492140756407752224
+      Object_Tile_Colliders_24: -7255133229648651039
+      Object_Tile_Colliders_25: 4009929410138916685
+      Object_Tile_Colliders_26: -6561977907368076356
+      Object_Tile_Colliders_27: 2197362713155941825
+      Object_Tile_Colliders_28: 7073758842150809186
+      Object_Tile_Colliders_29: -7434090709359508801
+      Object_Tile_Colliders_3: 3649254128363677432
+      Object_Tile_Colliders_30: -7318929797998089681
+      Object_Tile_Colliders_31: -7602914971138272054
+      Object_Tile_Colliders_32: 4566265520174053631
       Object_Tile_Colliders_33: -8884493464941380923
-      Object_Tile_Colliders_39: 3070952339203761863
-      Object_Tile_Colliders_12: 7723554753882551041
-      Object_Tile_Colliders_7: -6163278022513675743
+      Object_Tile_Colliders_34: 349936788375635051
+      Object_Tile_Colliders_35: -2689762667887611868
       Object_Tile_Colliders_36: 2743364459724063391
-  spritePackingTag: 
+      Object_Tile_Colliders_37: -6717190327751728670
+      Object_Tile_Colliders_38: 1160097190734717478
+      Object_Tile_Colliders_39: 3070952339203761863
+      Object_Tile_Colliders_4: 2733325506517746712
+      Object_Tile_Colliders_40: 4521249327163319989
+      Object_Tile_Colliders_41: 8327800301285131420
+      Object_Tile_Colliders_42: 9129767264428567168
+      Object_Tile_Colliders_43: 8640078148620649161
+      Object_Tile_Colliders_5: 5863655481875530806
+      Object_Tile_Colliders_6: 2225564680323878622
+      Object_Tile_Colliders_7: -6163278022513675743
+      Object_Tile_Colliders_8: 4890244462752904716
+      Object_Tile_Colliders_9: -7679206026116879251
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

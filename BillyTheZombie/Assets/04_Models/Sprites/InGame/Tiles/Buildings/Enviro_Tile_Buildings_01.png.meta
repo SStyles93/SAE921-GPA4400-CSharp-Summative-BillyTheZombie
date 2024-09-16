@@ -153,7 +153,7 @@ TextureImporter:
       213: -812746202407399758
     second: Enviro_Tile_Buildings_01_49
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -170,11 +170,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -193,7 +194,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -213,6 +214,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -224,6 +227,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -236,6 +240,72 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1302,59 +1372,58 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Enviro_Tile_Buildings_01_38: -1068356316401500594
-      Enviro_Tile_Buildings_01_12: -5403689010934418843
-      Enviro_Tile_Buildings_01_27: -4829783314938135330
-      Enviro_Tile_Buildings_01_26: -5012428339625271915
-      Enviro_Tile_Buildings_01_46: -1142719067532338660
-      Enviro_Tile_Buildings_01_19: -1799317607819559724
-      Enviro_Tile_Buildings_01_6: -7380516895087952334
-      Enviro_Tile_Buildings_01_10: -2097266671571662802
-      Enviro_Tile_Buildings_01_42: 2767919382081568113
-      Enviro_Tile_Buildings_01_25: 7531840723997397967
-      Enviro_Tile_Buildings_01_44: 6774170774550377636
       Enviro_Tile_Buildings_01_0: 7074738529898414478
-      Enviro_Tile_Buildings_01_36: 5215755409795388515
-      Enviro_Tile_Buildings_01_29: -5057580113446136753
-      Enviro_Tile_Buildings_01_15: -7854782992108154680
-      Enviro_Tile_Buildings_01_22: -8906624723224075671
-      Enviro_Tile_Buildings_01_39: -1528443990262211661
-      Enviro_Tile_Buildings_01_14: -8596417393671588359
-      Enviro_Tile_Buildings_01_30: -8097257093413186398
-      Enviro_Tile_Buildings_01_48: -4288396912727526725
-      Enviro_Tile_Buildings_01_45: 5167847583669148943
-      Enviro_Tile_Buildings_01_5: 5688388654125160834
-      Enviro_Tile_Buildings_01_2: 8500906587584602514
-      Enviro_Tile_Buildings_01_31: 3151694829013129418
-      Enviro_Tile_Buildings_01_43: -3881418747362873350
-      Enviro_Tile_Buildings_01_49: -812746202407399758
-      Enviro_Tile_Buildings_01_9: -8776638990047434507
-      Enviro_Tile_Buildings_01_16: -7298836137565857414
-      Enviro_Tile_Buildings_01_4: -4270830347871206431
-      Enviro_Tile_Buildings_01_33: 4114505688220276660
-      Enviro_Tile_Buildings_01_18: -5470179972121558160
-      Enviro_Tile_Buildings_01_21: 1705948320905013873
-      Enviro_Tile_Buildings_01_11: 5237692392987966092
-      Enviro_Tile_Buildings_01_23: -2740764797395971099
-      Enviro_Tile_Buildings_01_34: -3631727195295030784
-      Enviro_Tile_Buildings_01_28: 1641812698520078503
-      Enviro_Tile_Buildings_01_40: 8196064450968852912
-      Enviro_Tile_Buildings_01_47: -5994296319935569403
-      Enviro_Tile_Buildings_01_24: -3974184138796386758
-      Enviro_Tile_Buildings_01_17: -6945080984153927088
-      Enviro_Tile_Buildings_01_3: 6693769740418016454
-      Enviro_Tile_Buildings_01_32: -1904412975470037490
-      Enviro_Tile_Buildings_01_20: 2245251803009753135
-      Enviro_Tile_Buildings_01_8: 348620874725412420
-      Enviro_Tile_Buildings_01_35: -3897744161264462355
-      Enviro_Tile_Buildings_01_37: -3842770248617783854
       Enviro_Tile_Buildings_01_1: 6832293075355327576
+      Enviro_Tile_Buildings_01_10: -2097266671571662802
+      Enviro_Tile_Buildings_01_11: 5237692392987966092
+      Enviro_Tile_Buildings_01_12: -5403689010934418843
       Enviro_Tile_Buildings_01_13: 593488550783245510
+      Enviro_Tile_Buildings_01_14: -8596417393671588359
+      Enviro_Tile_Buildings_01_15: -7854782992108154680
+      Enviro_Tile_Buildings_01_16: -7298836137565857414
+      Enviro_Tile_Buildings_01_17: -6945080984153927088
+      Enviro_Tile_Buildings_01_18: -5470179972121558160
+      Enviro_Tile_Buildings_01_19: -1799317607819559724
+      Enviro_Tile_Buildings_01_2: 8500906587584602514
+      Enviro_Tile_Buildings_01_20: 2245251803009753135
+      Enviro_Tile_Buildings_01_21: 1705948320905013873
+      Enviro_Tile_Buildings_01_22: -8906624723224075671
+      Enviro_Tile_Buildings_01_23: -2740764797395971099
+      Enviro_Tile_Buildings_01_24: -3974184138796386758
+      Enviro_Tile_Buildings_01_25: 7531840723997397967
+      Enviro_Tile_Buildings_01_26: -5012428339625271915
+      Enviro_Tile_Buildings_01_27: -4829783314938135330
+      Enviro_Tile_Buildings_01_28: 1641812698520078503
+      Enviro_Tile_Buildings_01_29: -5057580113446136753
+      Enviro_Tile_Buildings_01_3: 6693769740418016454
+      Enviro_Tile_Buildings_01_30: -8097257093413186398
+      Enviro_Tile_Buildings_01_31: 3151694829013129418
+      Enviro_Tile_Buildings_01_32: -1904412975470037490
+      Enviro_Tile_Buildings_01_33: 4114505688220276660
+      Enviro_Tile_Buildings_01_34: -3631727195295030784
+      Enviro_Tile_Buildings_01_35: -3897744161264462355
+      Enviro_Tile_Buildings_01_36: 5215755409795388515
+      Enviro_Tile_Buildings_01_37: -3842770248617783854
+      Enviro_Tile_Buildings_01_38: -1068356316401500594
+      Enviro_Tile_Buildings_01_39: -1528443990262211661
+      Enviro_Tile_Buildings_01_4: -4270830347871206431
+      Enviro_Tile_Buildings_01_40: 8196064450968852912
       Enviro_Tile_Buildings_01_41: 7538501237812804445
+      Enviro_Tile_Buildings_01_42: 2767919382081568113
+      Enviro_Tile_Buildings_01_43: -3881418747362873350
+      Enviro_Tile_Buildings_01_44: 6774170774550377636
+      Enviro_Tile_Buildings_01_45: 5167847583669148943
+      Enviro_Tile_Buildings_01_46: -1142719067532338660
+      Enviro_Tile_Buildings_01_47: -5994296319935569403
+      Enviro_Tile_Buildings_01_48: -4288396912727526725
+      Enviro_Tile_Buildings_01_49: -812746202407399758
+      Enviro_Tile_Buildings_01_5: 5688388654125160834
+      Enviro_Tile_Buildings_01_6: -7380516895087952334
       Enviro_Tile_Buildings_01_7: -8989120220847292512
-  spritePackingTag: 
+      Enviro_Tile_Buildings_01_8: 348620874725412420
+      Enviro_Tile_Buildings_01_9: -8776638990047434507
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

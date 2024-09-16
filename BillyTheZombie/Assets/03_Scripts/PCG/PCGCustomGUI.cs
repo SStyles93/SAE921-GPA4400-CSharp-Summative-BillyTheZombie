@@ -18,7 +18,7 @@ public class PCGCustomGUI : Editor
         }
         if (GUILayout.Button("Delete"))
         {
-            map.DeleteTiles();
+            map.ClearAll();
         }
     }
 }
